@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class Game_Activity extends AppCompatActivity {
 
-    Ball V;
+    Ball v;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
