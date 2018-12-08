@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class Game_Activity extends Activity {
+public class Game_Activity extends AppCompatActivity {
 
     Ball v;
 
