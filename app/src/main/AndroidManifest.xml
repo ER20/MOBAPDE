@@ -19,6 +19,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".Game_Activity" />
+        <activity android:name=".Surface_View"></activity>
     </application>
 
 </manifest>
